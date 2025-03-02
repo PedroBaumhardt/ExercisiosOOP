@@ -1,2 +1,2 @@
 # ExercisiosOOP
-A  series of activities i did to train  OOP
+A  series of activities i did to practice  OOP
